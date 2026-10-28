@@ -1,4 +1,4 @@
-time,period_description,subarea,Sargasso Sea,Gulf Stream,Slope,Shelfbreak,Scotian Shelf,Gulf of Maine,Mid-Atlantic Shelf,Georges Bank
+time,period_description,subarea,Sargasso Sea_percent_coverage,Gulf Stream_percent_coverage,Slope_percent_coverage,Shelfbreak_percent_coverage,Scotian Shelf_percent_coverage,Gulf of Maine_percent_coverage,Mid-Atlantic Shelf_percent_coverage,Georges Bank_percent_coverage
 2000-02-01,Monthly,MAB,0.0,2.6320438085143967,4.963787316728493,54.68998410174881,0.0,0.9362303479950538,35.71807101218866,1.0598834128245893
 2000-03-01,Monthly,MAB,0.0,1.709136109384711,5.080795525170913,53.69794903666873,0.0,4.101926662523306,29.0863890615289,6.323803604723431
 2000-04-01,Monthly,MAB,0.0,2.643034825870647,1.0261194029850746,46.968283582089555,0.0,2.0988805970149254,40.500621890547265,6.763059701492537
